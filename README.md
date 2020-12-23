@@ -1,0 +1,2 @@
+# hasqlfmt
+HAskin SQL ForMaTter.
