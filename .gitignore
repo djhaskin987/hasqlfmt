@@ -10,6 +10,19 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Editor save files
+.*#
+.#*
+\#*
+*~
+.*.sw[a-z]
+
+# IDE
+.vscode
+.classpath
+.project
+.settings
+
 # Package Files #
 *.jar
 *.war
